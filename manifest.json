@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 2,
+    "name": "Open tab with Respect",
+    "version": "1.0",
+
+    "description": "Gives option to open tabs in a respected way.",
+
+    "icons": {
+        "48": "icons/48.png",
+        "96": "icons/96.png"
+    },
+
+    "permissions": [
+        "menus", "activeTab", "contextMenus"
+    ],
+
+	"background": {
+		"scripts": ["background.js"]
+	}
+		
+}
