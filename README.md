@@ -7,3 +7,5 @@ Open tab as:
 - Last
 - Next
 - Previous
+
+## [Firefox Add-Ons Link](https://addons.mozilla.org/en-US/firefox/addon/open-tab-with-respect/)
